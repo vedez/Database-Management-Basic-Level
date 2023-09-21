@@ -1,3 +1,7 @@
+-- Creating Queries for DB on Builder
+-- Author: L Fernandez (zedev)
+-- Date: 20/09/23
+
 -- First Submission
 
 -- NOTES: Docker and DBeaver used throughout these labs

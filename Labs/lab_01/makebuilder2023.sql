@@ -1,3 +1,6 @@
+-- This code is provided within the course and is an example to be used to create queries for the lab.
+-- Source: TUD Database
+
 --select * from pg_catalog.pg_views where schemaname='BUILDER';
 commit;
 drop view if exists a;
