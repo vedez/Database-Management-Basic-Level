@@ -24,7 +24,9 @@
 #### Week 02: lab_02
 - [test-1.c](https://www.google.com)
 
-
+## Applications Used:
+- DBeaver
+- Docker, Postgres
 
 ## Chapters Covered
 - WK1: Revision on writing queries and understanding relations between database.
