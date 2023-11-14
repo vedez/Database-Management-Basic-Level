@@ -1,5 +1,5 @@
--- This code is provided within the course and is an example to be used to create queries for the lab.
--- Source: TUD Database
+-- This sheet is provided to create contents for the builder database
+-- Queries are to be written provided in revision builder queries.pdf
 
 --select * from pg_catalog.pg_views where schemaname='BUILDER';
 commit;

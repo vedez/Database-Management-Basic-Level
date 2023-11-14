@@ -18,15 +18,10 @@
 
 ## Labs
 #### Week 01: lab_01
-- [SCode_Descr.sql](https://github.com/vedez/Database_1-2/blob/main/Labs/lab_01/SCode_Descr.sql)
-
-
-#### Week 02: lab_02
-- [test-1.c](https://www.google.com)
 
 ## Applications Used:
 - DBeaver
-- Docker, Postgres
+- Docker, Postgres, MongoDB
 
 ## Chapters Covered
 - WK1: Revision on writing queries and understanding relations between database.
