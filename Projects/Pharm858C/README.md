@@ -1,5 +1,5 @@
 # Pharm858C: Relational Database Project
-##Project Overview
+## Project Overview
 In the Pharm858C project, my partner and I were tasked with designing and implementing a relational database, drawing from a specific extract provided to us. Our primary objective was to develop a database structure with well-defined tables and attributes, ensuring it supports all the functionalities required by the various roles outlined in the extract.
 
 ## Team Collaboration
