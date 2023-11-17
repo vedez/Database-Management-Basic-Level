@@ -5,7 +5,7 @@
 # File: Adding Prescription via Python 
 # Description: Using the addprescription() function via python
 # 
-# Author: Lovely Fernandez (LF)
+# Author: Lovely Fernandez | LF
 # Date: 25/10/2023 
 #
  
