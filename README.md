@@ -20,7 +20,7 @@ Find more about this project @ [Digimon Report](https://github.com/vedez/Databas
 The purpose of this project is to develop a database system to manage a dataset efficiently, focusing on the organisation, retrieval, and manipulation of data. Working as part of a group, each member was assigned specific roles and responsibilities, contributing to different aspects of the project. By defining clear relationships between various entities and implementing validation rules, the project ensures data integrity and consistency. Key functionalities include procedures for adding, updating, and deleting records, along with logging mechanisms to track changes. The database system is designed to streamline operations, support data-driven decision-making, and enhance the overall management of the dataset.
 
 Find more about this project @ [Pharm858 ReadMe](https://github.com/vedez/Database_1-2/tree/main/Projects/Pharm858C)
-In  [Digimon Report](https://github.com/vedez/Database_1-2/blob/main/Projects/Digimon/Digimon_MongoDB.pdf)
+In  [Pharm858 Report](https://github.com/vedez/Database_1-2/blob/main/Projects/Digimon/Digimon_MongoDB.pdf)
 
 #### Others
 
