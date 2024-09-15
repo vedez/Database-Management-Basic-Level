@@ -13,13 +13,13 @@ This repository contains projects focused on designing and implementing database
 
 The purpose of this project is to design and implement a database using MongoDB to manage a dataset that categorises entities based on specific attributes. The focus is on creating an organised and efficient database structure that groups entities under various attribute categories, allowing for streamlined data retrieval, analysis, and manipulation. The project emphasises data integrity through the use of validation rules and aims to facilitate operations such as inserting, updating, and deleting records within the dataset. This approach supports strategic data analysis by leveraging the unique attributes of each entity within the collection.
 
-Find more about this project @ [Digimon Report](https://github.com/vedez/Database_1-2/blob/main/Projects/Digimon/Digimon_MongoDB.pdf)
+Find more about this project @ [Digimon Report](https://github.com/vedez/Database-Management-Basic-Level/blob/main/Projects/Digimon/Digimon_MongoDB.pdf)
 
 ### Pharm858
 
 The purpose of this project is to develop a database system to manage a dataset efficiently, focusing on the organisation, retrieval, and manipulation of data. Working as part of a group, each member was assigned specific roles and responsibilities, contributing to different aspects of the project. By defining clear relationships between various entities and implementing validation rules, the project ensures data integrity and consistency. Key functionalities include procedures for adding, updating, and deleting records, along with logging mechanisms to track changes. The database system is designed to streamline operations, support data-driven decision-making, and enhance the overall management of the dataset.
 
-Find more about this project @ [Pharm858 ReadMe](https://github.com/vedez/Database_1-2/tree/main/Projects/Pharm858C) and [Pharm858 Report](https://github.com/vedez/Database_1-2/blob/main/Projects/Digimon/Digimon_MongoDB.pdf)
+Find more about this project @ [Pharm858 ReadMe](https://github.com/vedez/Database-Management-Basic-Level/tree/main/Projects/Pharm858C) and [Pharm858 Report](https://github.com/vedez/Database-Management-Basic-Level/blob/main/Projects/Pharm858C/PharmC858.pdf)
 
 #### Others
 
